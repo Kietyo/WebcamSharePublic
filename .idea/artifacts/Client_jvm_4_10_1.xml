@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client-jvm-4.10.1">
+    <output-path>$PROJECT_DIR$/Client/build/libs</output-path>
+    <root id="archive" name="Client-jvm-4.10.1.jar">
+      <element id="module-output" name="WebcamShare.Client.jvmMain" />
+    </root>
+  </artifact>
+</component>
